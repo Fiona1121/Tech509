@@ -25,7 +25,7 @@ pip install -r requirements.txt
 4. Run the game
 
 ```bash
-python tictactoe.py
+python game.py
 ```
 
 5. Follow the instructions in the terminal to play the game.
